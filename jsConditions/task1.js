@@ -11,3 +11,6 @@ if (averageGrade < 60) {
 } else if (averageGrade >= 91 && averageGrade <= 100) {
     console.log("Відмінно");
 }
+else {
+    console.log("Некоректна оцінка");
+}
